@@ -1,2 +1,2 @@
-# coursera-test
+# coursera-test-pizza
 Coursera test repository
